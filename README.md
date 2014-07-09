@@ -10,8 +10,9 @@ Usage
 package main
 
 import (
-	"ajph/nbclassifier"
 	"fmt"
+
+	"github.com/ajph/nbclassifier-go"
 )
 
 func main() {
